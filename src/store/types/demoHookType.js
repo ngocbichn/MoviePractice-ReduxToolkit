@@ -1,0 +1,2 @@
+export const SET_PROVINCES = 'SET_PROVINCES'
+export const SET_DISTRICTS = 'SET_DISTRICTS'

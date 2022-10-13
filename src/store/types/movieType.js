@@ -1,0 +1,2 @@
+export const GET_MOVIELIST = 'GET_MOVIELIST'
+export const GET_MOVIEBYID = 'GET_MOVIEBYID'
